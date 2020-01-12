@@ -1,0 +1,1 @@
+# trading-shop-with-event-emitter
